@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,595 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "id": "9185",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "4f95",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "0053",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "2ec0",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "eacc",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6f84",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3fef",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "1040",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "9d7c",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "5dd5",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "5e74",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "0bdc",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "e2d6",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "b270",
+      "dogName": "Byron",
+      "dogBreed": "Po"
+    },
+    {
+      "id": "5b63",
+      "dogName": "Byron",
+      "dogBreed": "Po"
+    },
+    {
+      "id": "3bfb",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "f128",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "79d9",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6462",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "5a2d",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "586b",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "32a0",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "5874",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "8ac8",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6c6b",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "cb7d",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "5041",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "2155",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "4c90",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "09a3",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "aaf1",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "64ca",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "4d3c",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "bab9",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "eab8",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "1d90",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "dbd7",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "8515",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "8d53",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "c232",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "a979",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "c2b9",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "0953",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "f195",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3f39",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "547c",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6ee8",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "5b18",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "5d88",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "73f8",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "9c07",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "826e",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6ed0",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "0c14",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "4975",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "7622",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "4ad4",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "11ef",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "8935",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "259a",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "7a40",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "9030",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "4fd3",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "26dd",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "8ba8",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "4ca5",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "758b",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3df5",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "0687",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "b23d",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "bb1f",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "fc80",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "deec",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3a82",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "0315",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "78cb",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "30a1",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "d1d1",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "7d32",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "1a0d",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "1fd1",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "cf79",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3168",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "10e4",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3981",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "43c1",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "d534",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "9cc5",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "d04b",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "4690",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3fe5",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "cb45",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "336e",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "824d",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3b5e",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "0c5b",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "2ef5",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "8a63",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "2b95",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "38d5",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "8257",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "35ea",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "8fff",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "3ec0",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "d954",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "79aa",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "092e",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "2353",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "324e",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "d769",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "9d0e",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "213b",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "94c9",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "e4a2",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "0b23",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "6ac5",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "2af3",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +608,490 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "93f9",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "32c2",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "c655",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "e37c",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "f51b",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "e7f6",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "4a3b",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "da29",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "63d3",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "d30f",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "631c",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "6134",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "a764",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "9583",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "55dc",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "3a0d",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "9854",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "8a77",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "634b",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "72bd",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "247c",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "479f",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "0a25",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "e74b",
+      "name": "Byron",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "8e08",
+      "name": "Byr",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "f007",
+      "name": "Byr",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "3878",
+      "name": "",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "cd43"
+    },
+    {
+      "id": "118b"
+    },
+    {
+      "id": "c65c"
+    },
+    {
+      "id": "c25b"
+    },
+    {
+      "id": "fa6e"
+    },
+    {
+      "id": "137a"
+    },
+    {
+      "id": "14a0"
+    },
+    {
+      "id": "e971"
+    },
+    {
+      "id": "be7d"
+    },
+    {
+      "id": "e03f"
+    },
+    {
+      "id": "52e2"
+    },
+    {
+      "id": "0b61"
+    },
+    {
+      "id": "5cf8"
+    },
+    {
+      "id": "62aa"
+    },
+    {
+      "id": "2c6c"
+    },
+    {
+      "id": "c3c9"
+    },
+    {
+      "id": "c1ee"
+    },
+    {
+      "id": "9707"
+    },
+    {
+      "id": "3dfd"
+    },
+    {
+      "id": "a094"
+    },
+    {
+      "id": "32d7"
+    },
+    {
+      "id": "8f13"
+    },
+    {
+      "id": "a41e"
+    },
+    {
+      "id": "2465"
+    },
+    {
+      "id": "57b5"
+    },
+    {
+      "id": "0245"
+    },
+    {
+      "id": "286f"
+    },
+    {
+      "id": "3464"
+    },
+    {
+      "id": "8bce"
+    },
+    {
+      "id": "8238"
+    },
+    {
+      "id": "078c"
+    },
+    {
+      "id": "fd34"
+    },
+    {
+      "id": "8de7"
+    },
+    {
+      "id": "7d04"
+    },
+    {
+      "id": "cc0b"
+    },
+    {
+      "id": "e659"
+    },
+    {
+      "id": "befd"
+    },
+    {
+      "id": "2d3d"
+    },
+    {
+      "id": "b119"
+    },
+    {
+      "id": "c08b"
+    },
+    {
+      "id": "ca24"
+    },
+    {
+      "id": "32b4"
+    },
+    {
+      "id": "22c9"
+    },
+    {
+      "id": "6bf3"
+    },
+    {
+      "id": "1e24"
+    },
+    {
+      "id": "b266"
+    },
+    {
+      "id": "e98b"
+    },
+    {
+      "id": "110c"
+    },
+    {
+      "id": "7139"
+    },
+    {
+      "id": "1000"
+    },
+    {
+      "id": "257b"
+    },
+    {
+      "id": "89b1"
+    },
+    {
+      "id": "42a1"
+    },
+    {
+      "id": "42e0"
+    },
+    {
+      "id": "e7be"
+    },
+    {
+      "id": "505c"
+    },
+    {
+      "id": "62ac"
+    },
+    {
+      "id": "d7e5"
+    },
+    {
+      "id": "2c5c"
+    },
+    {
+      "id": "5ba0"
+    },
+    {
+      "id": "ca15"
+    },
+    {
+      "id": "e2fd"
+    },
+    {
+      "id": "d7f8"
+    },
+    {
+      "id": "6fdf"
+    },
+    {
+      "id": "380a"
+    },
+    {
+      "id": "785c"
+    },
+    {
+      "id": "09c0"
+    },
+    {
+      "id": "77fd"
+    },
+    {
+      "id": "5346"
+    },
+    {
+      "id": "ff72"
+    },
+    {
+      "id": "fc48"
+    },
+    {
+      "id": "54c3"
+    },
+    {
+      "id": "0358"
+    },
+    {
+      "id": "e81e",
+      "name": ""
+    },
+    {
+      "id": "172f",
+      "name": ""
+    },
+    {
+      "id": "23a8",
+      "name": ""
+    },
+    {
+      "id": "e6fd",
+      "name": "B"
+    },
+    {
+      "id": "1233",
+      "name": "B"
+    },
+    {
+      "id": "a8ab",
+      "name": "B"
+    },
+    {
+      "id": "1823",
+      "name": "Byron "
+    },
+    {
+      "id": "099d",
+      "name": "Byron "
+    },
+    {
+      "id": "286a",
+      "name": "Byron "
+    },
+    {
+      "id": "02fa",
+      "name": "Byron "
+    },
+    {
+      "id": "9f7f",
+      "name": "Byron Gachagua"
+    },
+    {
+      "id": "6b2d",
+      "name": "Byron Gachagua"
+    },
+    {
+      "id": "9b0d",
+      "name": "Byron Gachagua",
+      "email": ""
+    },
+    {
+      "id": "b00a",
+      "name": "Byron Gachagua",
+      "email": ""
+    },
+    {
+      "id": "559f",
+      "name": "Byron Gachagua",
+      "email": ""
+    },
+    {
+      "id": "86c9",
+      "name": "Byron Gachagua",
+      "email": "Byron"
+    },
+    {
+      "id": "caa2",
+      "name": "Byron Gachagua",
+      "email": "Byron"
+    },
+    {
+      "id": "7c56",
+      "name": "Byron Gachagua",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "0877",
+      "name": "Byron Gachagua",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "e25f",
+      "name": "Byron Gachagua",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "9d07",
+      "name": "Byron Gachagua",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "97ac",
+      "name": "Byron Gachagua",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "9561",
+      "name": "Byron Gachagua",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "f85e",
+      "name": "Byron Gachagua",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "e011",
+      "name": "Byron Gachagua",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "18e6",
+      "name": "Byron Gachagua",
+      "email": "Byron@gmail.com"
+    },
+    {
+      "id": "b9fb",
+      "name": "Byron Gachagua",
+      "email": "Byron@gmail.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
